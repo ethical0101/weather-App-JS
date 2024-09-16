@@ -35,7 +35,7 @@ A simple yet intuitive Weather App built using HTML, CSS, and JavaScript to prov
 
 ```javascript
 const apiKey = 'YOUR_API_KEY';
-
+```
 ## Future Improvements
 Add weather forecasts for the next few days.
 Improve the user interface with advanced animations and visual effects.
