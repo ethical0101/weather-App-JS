@@ -31,12 +31,12 @@ A simple yet intuitive Weather App built using HTML, CSS, and JavaScript to prov
 ## API Setup
 
 - Sign up for an API key at [OpenWeatherMap](https://openweathermap.org/api).
-- In the `app.js` file, replace `YOUR_API_KEY` with your API key to fetch the weather data.
+- In the `script.js` file, replace `YOUR_API_KEY` with your API key to fetch the weather data.
 
 ```javascript
 const apiKey = 'YOUR_API_KEY';
 ```
 ## Future Improvements
--Add weather forecasts for the next few days.
--Improve the user interface with advanced animations and visual effects.
--Include additional data like UV index, visibility, and air quality. 
+- Add weather forecasts for the next few days.
+- Improve the user interface with advanced animations and visual effects.
+- Include additional data like UV index, visibility, and air quality. 
