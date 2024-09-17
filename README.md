@@ -21,7 +21,7 @@ A simple yet intuitive Weather App built using HTML, CSS, and JavaScript to prov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/ethical0101/weather-App-JS.git
 2. Navigate to the project directory:
    ```bash
    cd weather-app
